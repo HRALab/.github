@@ -1,6 +1,6 @@
 # [Human-centered Robotics and Automation Laboratory](https://www.hralab.com/)
 
-![화면 캡처](https://github.com/HRALab/.github/assets/157379915/cdec88dc-bdbe-4498-921d-915e2002da9d)
+![화면 캡처](https://github.com/HRALab/.github/assets/157379915/8162674d-0015-4c54-8bf1-71d3e61655db)
 
 ## Human-centered Robotics and Automation Laboratory
 
