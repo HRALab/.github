@@ -1,1 +1,1 @@
-###[Human-centered Robotics and Automation Laboratory](https://github.com/HRALab)
+[Human-centered Robotics and Automation Laboratory](https://github.com/HRALab)
