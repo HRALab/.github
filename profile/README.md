@@ -1,9 +1,10 @@
 # [Human-centered Robotics and Automation Laboratory](https://www.hralab.com/)
 
-![화면 캡처](https://github.com/HRALab/.github/assets/157379915/f6b78d70-a709-4767-89ac-03db686adf93)
-
+<img src = "https://github.com/HRALab/.github/assets/157379915/f6b78d70-a709-4767-89ac-03db686adf93" width="30%" height="30%">
 
 <!--
+![화면 캡처](https://github.com/HRALab/.github/assets/157379915/f6b78d70-a709-4767-89ac-03db686adf93)
+
 ## Human-centered Robotics and Automation Laboratory
 
 
